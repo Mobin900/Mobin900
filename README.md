@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mobin900/Mobin900/output/github-contribution-grid-snake.svg" alt="snake-animation" />
+  <img src="https://raw.githubusercontent.com/Mobin900/Mobin900/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" />
 </p>
+
+
